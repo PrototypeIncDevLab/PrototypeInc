@@ -1,3 +1,3 @@
 # Hi, I am PrototypeInc
-## I am a Software Company
-### Ya, I am a new start up company
+__I am a Software Company__
+_Ya, I am a new start up company_
